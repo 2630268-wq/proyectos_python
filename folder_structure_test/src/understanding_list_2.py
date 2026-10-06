@@ -26,3 +26,10 @@ print(motorcycles_3)
 motorcycles_3.insert(0, 'ducati')
 print("Lista despues del metodo insert")
 print(motorcycles_3)
+
+cars = ['bmw', 'audi', 'toyota', 'subaru']
+print(cars)
+cars.sort()
+print(cars)
+several_items = [["charly", "arnoldo"],] 
+print(several_items)
